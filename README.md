@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18178642.svg)](https://doi.org/10.5281/zenodo.18178642)
+
 # CranioDock: Open-Source 3D-Printable Mounts for Brain Imaging with Visual and Auditory stimulation in Danionella
 
 **CranioDock** is an open-source, modular 3D-printed mounting system designed for brain imaging in adult *Danionella* fish (and other similar animal models). This setup provides stable head-fixation, precise alignment with visual/ auditory stimuli, and easy integration with upright microscopes with water immersion or dry objectives that have sufficient working distance.
@@ -102,6 +104,13 @@ This project is shared under the [Creative Commons Attribution 4.0 International
 ## Author
 
 Developed by Gokul Rajan. Orger Lab, Champalimaud Foundation.
+
+
+---
+
+## Citation
+
+Gokul Rajan. (2026). CranioDock: Open-Source 3D-Printable Mounts for Brain Imaging with Visual and Auditory stimulation in Danionella (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18178642
 
 
 ---
