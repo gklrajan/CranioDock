@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18178642.svg)](https://doi.org/10.5281/zenodo.18178642)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18178642-0A7BBB?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.18178642)
 
 # CranioDock: Open-Source 3D-Printable Mounts for Brain Imaging with Visual and Auditory stimulation in Danionella
 
